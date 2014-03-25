@@ -7,8 +7,8 @@ This is a implementation of Collapasible tree from D3 visualization (http://d3js
 
 Features of this new ChEBI Role ontology visualization:
 
-1) Different types of "relationships" are depicted in different colour (more relationship types can be added depending on our needs).
-2) The "selected" node is depicted in Green.
+-1) Different types of "relationships" are depicted in different colour (more relationship types can be added depending on our needs).
+-2) The "selected" node is depicted in Green.
 3) The tree is automatically centered visually with respect to the recently clicked node.
 4) The tree structure can be dragged with ease, along with the "tooltip" if opened previously.
 4) The "Focus" button, when clicked, brings back the visualization back to center of the screen with respect to the recently clicked node.
