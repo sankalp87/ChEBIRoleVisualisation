@@ -24,12 +24,11 @@ Features of this new ChEBI Role ontology visualization:
 The visualisation shows the complete hierarchy for each entity.A working demo can be found at-   
 (http://work.ashish.ws/sankalp/tree-proto.html)
 
-Technology used:
-
-1. D3 visualisation library
-2. Java
-3. JavaScript
-4.Spring Framework (for Web-Application)
+Technology used:   
+1. D3 visualisation library   
+2. Java   
+3. JavaScript   
+4.Spring Framework (for Web-Application)   
 
 
 
