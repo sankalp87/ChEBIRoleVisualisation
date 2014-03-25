@@ -28,5 +28,5 @@ Features of this new ChEBI Role ontology visualization:
 	e. Total children count
 	f. Structure diagram if the node is a chemical structure
 
-The visualisation shows the complete hierarchy for each entity.
+The visualisation shows the complete hierarchy for each entity.A working demo can be found at-
 (http://work.ashish.ws/sankalp/tree-proto.html)
